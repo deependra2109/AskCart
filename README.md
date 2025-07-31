@@ -145,11 +145,12 @@ Use Postman to hit endpoints like:
 
 
 🙋‍♂️ Why This Project Matters
-✅ Demonstrates real-world understanding of backend design
-✅ Follows enterprise-grade layered architecture
-✅ Built from scratch without boilerplates
-✅ Clean and scalable code — ready for real-world extension
-✅ Shows strong command over Spring Boot, MySQL, and API design
+
+✅ Demonstrates real-world understanding of backend design       
+✅ Follows enterprise-grade layered architecture               
+✅ Built from scratch without boilerplates                     
+✅ Clean and scalable code — ready for real-world extension         
+✅ Shows strong command over Spring Boot, MySQL, and API design     
 
 ---
 
