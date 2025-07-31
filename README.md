@@ -72,8 +72,9 @@ Welcome to **AskCart**, a full-featured RESTful API built using **Spring Boot** 
 - lombok
 
 ---
+ 📁 Folder Structure
 
-📁 Folder Structure
+```bash
 AskCart/
 ├── src/
 │   ├── main/
@@ -89,7 +90,6 @@ AskCart/
 ├── .gitignore
 ├── pom.xml
 └── README.md
-
 
 
 ---
@@ -166,18 +166,19 @@ Planned improvements to take this project to the next level:
 
 ---
 
+## 📄 License
+
+**All Rights Reserved.**  
+This project is protected. No part of this codebase may be copied, reused, distributed, or modified without explicit written permission from the author.
+
+
+---
+
 Author
 Deependra Kumar
 📧 Connect on LinkedIn
 💻 Passionate about backend engineering and building scalable systems
 
-
----
-
-## 📄 License
-
-**All Rights Reserved.**  
-This project is protected. No part of this codebase may be copied, reused, distributed, or modified without explicit written permission from the author.
 
 
 
